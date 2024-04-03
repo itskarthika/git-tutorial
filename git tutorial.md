@@ -12,5 +12,7 @@
 - How to open `terminalin VS Code`
     - `ctrl J`
 
-
+- How to hard reload?
+    -`Ctrl+ shift+r`
+    
 
